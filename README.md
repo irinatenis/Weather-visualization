@@ -1,3 +1,4 @@
+# Visualization of weather of over 500 cities of varying distances from the equator
 The projects consists of two parts:
 
 ## ***Part 1.***
